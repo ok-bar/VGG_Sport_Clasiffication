@@ -8,14 +8,13 @@ Since 2014 VGG16 has been widely used for image classification. In this project 
 My dataset contains various sports images from 22 categories, with 75 percent and 25 percent of the images allocated to training and validation, respectively. Aside from rescaling the images, data augmentation is also presented to prevent overfitting and improve model performance.
 Randmoly has chosen the following images:
 
-
-![image](https://user-images.githubusercontent.com/51881832/140488275-0af002e6-17ad-4e72-bffd-b390038cc227.png)
+<img width="342" alt="ללkא שם" src="https://user-images.githubusercontent.com/51881832/140489654-2523a19c-0d71-4ce6-a971-731b6935b6fb.png">
 
 
 After 76 epochs the model showed accuracy of ~90%
 
-![image](https://user-images.githubusercontent.com/51881832/140489055-b42a45ec-180b-4459-b16d-5e5eff05f024.png)
+<img width="554" alt="ללא שם6" src="https://user-images.githubusercontent.com/51881832/140489855-9c8be703-644a-48ce-93e7-e7a3582225d2.png">
 
-![image](https://user-images.githubusercontent.com/51881832/140489274-06e63c76-066e-4599-b25e-e58ae4bdec03.png)
+<img width="202" alt="7ללא שם" src="https://user-images.githubusercontent.com/51881832/140489995-d20edac3-13f3-4339-ac04-b7b49c0a26cc.png">
 
-![image](https://user-images.githubusercontent.com/51881832/140489356-010aeb37-f852-46d4-912b-fdf6717a2610.png)
+<img width="200" alt="8ללא שם" src="https://user-images.githubusercontent.com/51881832/140490118-ca1543be-3107-4f7b-923e-00a38bf4f82d.png">
