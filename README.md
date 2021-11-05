@@ -18,3 +18,5 @@ After 76 epochs the model showed accuracy of ~90%
 <img width="202" alt="7ללא שם" src="https://user-images.githubusercontent.com/51881832/140489995-d20edac3-13f3-4339-ac04-b7b49c0a26cc.png">
 
 <img width="200" alt="8ללא שם" src="https://user-images.githubusercontent.com/51881832/140490118-ca1543be-3107-4f7b-923e-00a38bf4f82d.png">
+
+You can find my full project at: https://www.kaggle.com/omreekapon/sports-classification-using-vgg16-via-fine-tuning
